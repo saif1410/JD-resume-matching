@@ -1,1 +1,1 @@
-The python file can be run to get a cosine simlarity score for the JD and the resume. Import skills.extract() function from the resume_parser_src for extracting skills from both JD and resume.
+The python file can be run to get a cosine simlarity score for the JD and the resume. From resume_parser_src import the matcher module and then use the extract_skills() function from it to get the skills from both the JD and the resume.
